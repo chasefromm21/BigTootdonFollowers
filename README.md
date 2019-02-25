@@ -6,4 +6,4 @@ Enables a decently-sized follower amount of 5474. Obviously for looks and play. 
 
 Also, how come the large number, specifically for 5747 followers? Because it's just so easy to remember... easy peasy...
 
-While I'm on the topic of Mastodon, you should follow me on mastodon.social/@chasefromm18 if you haven't yet.
+While I'm on the topic of Mastodon, you should follow me on <a href="mstdn/@chasefromm19"> if you haven't yet.
